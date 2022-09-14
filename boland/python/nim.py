@@ -3,7 +3,7 @@
 # Latoya Boland
 # CSCI 77800 Fall 2022
 # collaborators: 
-# consulted: https://www.youtube.com/watch?v=cYPtxxV4wYk; https://github.com/marcjethro/Nim-Game/blob/main/nim.py
+# consulted: https://www.youtube.com/watch?v=cYPtxxV4wYk
 
 #Game settings
 StoneAmount=0

@@ -2,7 +2,7 @@ python# nim.py
 # Latoya Boland
 # CSCI 77800 Fall 2022
 # collaborators: 
-# consulted: 
+# consulted: https://github.com/marcjethro/Nim-Game/blob/main/nim.py
 
 
 import random

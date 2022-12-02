@@ -7,11 +7,11 @@ should all be considering with the constant uptick in AI driven
 technologies. The article highlights the following as key points
 business leaders and tech enthusiasts should be concerned with:
 
-• AI can create hidden errors
-• AI can lead to a loss of skill, critical thinking and understanding
-• AI can open new hazards
-• AI can institutionalize bias
-• AI can contribute to a loss of empathy
-• AI can cause a loss of control
+	• AI can create hidden errors
+	• AI can lead to a loss of skill, critical thinking and understanding
+	• AI can open new hazards
+	• AI can institutionalize bias
+	• AI can contribute to a loss of empathy
+	• AI can cause a loss of control
 
 [https://www.bain.com/insights/tackling-ais-unintended-consequences/]

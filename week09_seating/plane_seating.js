@@ -23,13 +23,13 @@ public class plane_seating {
             seats[i][5] = 'F';
     }
 
-
 // Selecting seating
     Scanner console = new Scanner(System.in);
     int filled = 0;
     printSeats(seats);
     System.out.println("Enter seat (e.g. 1A) or zero to quit the program.");
-			
+
+// Assign rows and columns
     String input = console.nextLine();
     while ((filled <48) &&(input.length() >0)) {
             int row = input.charAt(0) - '1';
@@ -45,7 +45,8 @@ public class plane_seating {
                     System.out.println();
                 printSeats(seats);
             }
- //Loop until filled
+ 
+//Loop until filled
             if (filled < 48) { 
                 System.out.println("Enter seat to assign (e.g., '1A'), " + 
                     "or zero to quit:"); 

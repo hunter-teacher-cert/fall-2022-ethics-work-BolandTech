@@ -5,6 +5,13 @@
 # collaborators: 
 # consulted: https://coderanch.com/t/642227/java/Loop-airplane-seating-reservations-seats
 
+//Plans: (didin't get this part)
+// #70% chance that the customer tries to purchase a window seat
+// # it this by making a list of all the rows, randomizing it
+// # and then trying each row to try to grab a seat
+// # if no window was available, just keep trying a random seat until we find an
+// # available one, then assign it and return the new plane
+
 
 import java.util.*;
 public class plane_seating {
@@ -23,7 +30,10 @@ public class plane_seating {
             seats[i][5] = 'F';
     }
 
-// Selecting seating
+// Selecting seating 
+//go through the randomized list to see if there's an available seat
+// # and if there is, assign it and return the new plane
+			
     Scanner console = new Scanner(System.in);
     int filled = 0;
     printSeats(seats);
